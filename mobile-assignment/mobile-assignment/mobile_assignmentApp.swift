@@ -2,7 +2,7 @@
 //  mobile_assignmentApp.swift
 //  mobile-assignment
 //
-//  Created by IvanQ on 16.08.2022.
+//  Created by IvanQ on 19.06.2022.
 //
 
 import SwiftUI
